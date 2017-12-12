@@ -12,7 +12,7 @@ int main()
 	for(j=0;j<n;j++)
 	{
 		if(a[j]==m)
-		printf("%d\t",j);
+		printf("%d ",j);
 		else;
 	}
 return 0;
