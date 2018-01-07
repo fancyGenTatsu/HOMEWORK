@@ -2,13 +2,14 @@
 #include<math.h>
 int main()
 {
-	int T,i=0;
+	int T;
+	int i=0;
 	double a,b,c,s,p,m;
 	scanf("%d",&T);
 	for(i=0;i<=T;i++)
 	{ 
 		a=0;b=0;c=0;
-		scanf("%lf\tlf\tlf\t",&a,&b,&c);
+		scanf("%lf%lf%lf",&a,&b,&c);
 	    if(a+b>c&&a+c>b&&b+c>a)
 		{
 		p=(a+b+c)/2;

@@ -10,9 +10,9 @@ int main()
 	{
 		b=n%400;
 		if(b==0)//能被400整除
-		printf("是闰年!");
+		printf("是闰年");
 		else 
-		printf("不是闰年!"); 
+		printf("不是闰年"); 
 	}
 	else
 	{

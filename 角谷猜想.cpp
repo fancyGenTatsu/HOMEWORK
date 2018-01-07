@@ -18,7 +18,7 @@ int fun(int n)
 int main()
 {
 	int T,i,n,x;
-	scanf("%d",&T); 
+	scanf("%d\n",&T); 
 	for(i=0;i<T;i++)
 	{
 		scanf("%d",&n);
