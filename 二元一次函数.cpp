@@ -2,9 +2,9 @@
 int main()
 {
 	double a,b,c,d,m,n,x,y;
-	printf("请输入变量a：\n");
+	printf("请输入变量a:");
  	scanf("%lf",&a);
- 	printf("请输入变量b：\n");
+ 	printf("请输入变量b:");
  	scanf("%lf",&b);
  	printf("请输入变量m：\n");
  	scanf("%lf",&m);
